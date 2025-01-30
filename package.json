@@ -1,0 +1,17 @@
+{
+  "name": "backend-structure",
+  "version": "1.0.0",
+  "description": "a basic backend project structure to be used as reference",
+  "keywords": [
+    "javascript",
+    "backend",
+    "nodejs"
+  ],
+  "license": "ISC",
+  "author": "Apoorv Pathak",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
